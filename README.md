@@ -21,6 +21,7 @@ The project answers the following specific objectives:
 
 Techniques:
 Data cleaning and formatting, Descriptive statistics, Correlation Analysis, EDa, Data analysis and reporting
+
 Tools used:
 Excel, Pivot Tables, Excel Power Query, Excel Data analysis, Data Visualization, Aggregate Functions, VLOOKUP, Frequency Interval, visualiaztion tools e.g., charts, graphs, and heatmap.
 
