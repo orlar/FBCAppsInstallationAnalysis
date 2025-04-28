@@ -19,6 +19,11 @@ The project answers the following specific objectives:
 - Identify the the top top 10 apps with highest number of reviews
 - Develop an interactive Excel dashboard for aata visualizatio, implementing filters and dynamic visualizations to explore intallations, reviews, and rating.
 
+Techniques:
+Data cleaning and formatting, Descriptive statistics, Correlation Analysis, EDa, Data analysis and reporting
+Tools used:
+Excel, Pivot Tables, Excel Power Query, Excel Data analysis, Data Visualization, Aggregate Functions, VLOOKUP, Frequency Interval, visualiaztion tools e.g., charts, graphs, and heatmap.
+
 Results and findings:
 - 10,841 were uploaded on the app stores, out of while 15 were not intalled.
 - Total installation -167633434487
